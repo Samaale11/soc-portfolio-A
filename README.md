@@ -1,12 +1,20 @@
-# soc-portfolio-A
-Evidence-based SOC Tier 1/2 projects: log pipelines, alert triage, detection rules, threat hunting, incident tickets, and lab writeups (Wazuh, Sysmon, Zeek, Suricata, Velociraptor).
+# soc-portfolio-A : SOC Analyst (Tier 1/2) | BSc Cybersecurity (IUBH) | Google Cybersecurity Cert | SIEM, detection, triage, IR tickets
+Evidence-based SOC Tier 1/2 project: log pipelines, alert triage, detection rules, threat hunting, incident tickets, and lab writeups (Wazuh, Sysmon, Zeek, Suricata, Velociraptor).
 
 # SOC Portfolio (Tier 1/2)
 
-Hi, I’m Mohamed Farah. This repo is the hub for my SOC Analyst Tier 1/2 portfolio: practical projects that prove I can collect telemetry, triage alerts, build detections, and write clear incident tickets.
+Hi, I’m Mohamed Farah.I have a Bachelor’s degree in Cybersecurity from IUBH University of Applied Sciences, plus IT Fundamentals certification and the Google Cybersecurity Professional Certificate.This repo is the hub for my SOC Analyst Tier 1/2 portfolio: practical projects that prove I can collect telemetry, triage alerts, build detections, and write clear incident tickets.
 
 **Target role:** SOC Analyst Tier 1/2  
+## Credentials
+- **Bachelor’s degree:** Cybersecurity,  2026 | IU International University of Applied Sciences
+- **Certification:** Technical Support Fundamentals  2022 | Google, Coursera
+- **Certification:** Google Cybersecurity Professional Certificate,  2022 | Google, Coursera
+
+Additionally, I document each project with repeatable steps, screenshots, and tickets so the work can be verified quickly.
+
 **Location:** Nariobi, Kenya | **LinkedIn:** www.linkedin.com/in/mohamed-farah-bb7b8622a | **Resume:** in-progress | **Email:** Mohamedalas929@gmail.com
+
 
 ## What this portfolio proves
 - I can move logs from endpoints and network sensors into a SIEM and confirm coverage.
@@ -38,6 +46,8 @@ Hi, I’m Mohamed Farah. This repo is the hub for my SOC Analyst Tier 1/2 portfo
 - CIS-style thinking for controls and hardening recommendations
 
 ## How to verify my work
+If you only have 2 minutes: open Project 01 and read one ticket in `tickets/` plus the proof screenshots.
+
 Each project repo follows a consistent structure so you can check evidence fast:
 
 - `docs/` architecture, setup notes, and what “good” looks like
@@ -54,7 +64,6 @@ Ticket format is consistent:
 4) Scope and impact (what is affected, what is not known yet)
 5) Decision (benign, suspicious, confirmed)
 6) Actions taken + next steps
-
 ---
 
 # Projects (10 practical SOC projects)
