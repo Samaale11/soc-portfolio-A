@@ -1,0 +1,40 @@
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Secrets (never commit)
+.env
+*.key
+*.pem
+*.pfx
+*.p12
+secrets/
+**/*token*
+**/*apikey*
+**/*api_key*
+
+# Large lab artifacts (keep out of git)
+*.pcap
+*.pcapng
+captures/
+artifacts/
+*.iso
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+
+# Logs and noisy outputs
+*.log
+logs/
+tmp/
+cache/
+
+# If you generate exports locally
+exports/
