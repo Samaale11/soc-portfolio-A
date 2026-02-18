@@ -110,16 +110,15 @@ Legend: ✅ done | 🟡 in progress | ⬜ planned
 
 1) ⬜ **Project 01: Mini SOC Lab (Wazuh + Sysmon on Windows)**
    
-   -Build: SIEM pipeline for telemetry collection and alert detection via Wazuh and Sysmon.
+   -
    
-   -Output: Lab writeups, custom detection rules, and professional incident tickets.
+   -
    
-   - Proves: endpoint telemetry, SIEM ingestion, custom alerts, investigation tickets
-   - 
-   -[Overview: Wazuh & Sysmon SIEM Implementation](./projects/project-01-wazuh-sysmon-siem/README.md)
-
+   - Build: SIEM pipeline for telemetry collection and alert detection via Wazuh and Sysmon.
+   - Output: Lab writeups, custom detection rules, and professional incident tickets.
+   - [Overview: Wazuh & Sysmon SIEM Implementation](./projects/project-01-wazuh-sysmon-siem/README.md)
    - Repo: https://github.com/<your-username>/soc-project-01-wazuh-sysmon-siem
-
+     
 3) ⬜ **Project 02: Alert Triage Playbook Pack (Tier 1 workflow)**
    - Build: step-by-step playbooks for common alerts (brute force, suspicious PowerShell, new admin user)
    - Output: triage checklists + sample tickets + close/escalate criteria
