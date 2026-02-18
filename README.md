@@ -1,12 +1,14 @@
+---
 <h1 align="center"> SOC Analyst Portfolio tier 1  and  2   </h1>
 
 <p align="center">I am Mohamed Farah, a Cybersecurity professional with a Bachelor’s degree in Cybersecurity from IU International University of Applied Sciences, the Google Cybersecurity Professional Certificate, and IT Fundamentals certification.</p>
 
 <p align="center"> This repository serves as the centralized hub for my SOC Analyst Tier 1 and 2 portfolio. It features evidence-based projects including log pipelines, alert triage, detection rules, threat hunting, incident tickets, and detailed lab writeups. These practical projects provide technical proof of my ability to collect telemetry, triage alerts, build detections, and write clear incident tickets using industry-standard tools such as Wazuh, Sysmon, Zeek, Suricata, and Velociraptor.</p>
-
+---
 
 
 **Target role:** SOC Analyst Tier 1 or 2  
+---
 ## Credentials
 - **Bachelor’s degree:** Cybersecurity,  2026 | IU International University of Applied Sciences
 - **Certification:** Technical Support Fundamentals  2022 | Google, Coursera
@@ -15,37 +17,37 @@
 Additionally, I document each project with repeatable steps, screenshots, and tickets so the work can be verified quickly.
 
 **Location:** Nariobi, Kenya | **LinkedIn:** www.linkedin.com/in/mohamed-farah-bb7b8622a | **Resume:** in-progress | **Email:** Mohamedalas929@gmail.com
-
+---
 
 ## What this portfolio proves
 - I can move logs from endpoints and network sensors into a SIEM and confirm coverage.
 - I can investigate alerts with a repeatable method: validate, scope, timeline, decision, next actions.
 - I can build detections and tune noise, then map detections to attacker behavior.
 - I can document work so another analyst can reproduce and verify it.
-
+---
 ## Skill coverage (what you can hire me for)
 ### Core SOC Tier 1
 - Alert triage: severity, false positive checks, evidence collection, escalation notes
 - Windows telemetry: Event Logs, Sysmon, process and network activity review
 - SIEM daily work: onboarding, parsing/fields, searching, dashboards, basic tuning
 - Ticket writing: clear summary, impact, evidence, actions taken, recommendations
-
+---
 ### Core SOC Tier 2
 - Detection engineering: custom rules, thresholds, tuning, test cases
 - Threat hunting: hypothesis-driven hunts, pivots, timelines, suspicious chains
 - Incident response basics: containment ideas, scoping, communication notes, final report
 - Threat intelligence basics: IOC checks, enrichment, confidence notes, limitations
-
+---
 ### Fundamentals (broad cybersecurity base)
 - Networking: TCP/IP, DNS, HTTP/S, common ports, NAT, basic packet and flow logic
 - Operating systems: Windows process model, persistence concepts, service and task basics
 - Security basics: authentication vs authorization, least privilege, logging strategy, risk thinking
-
+---
 ## Standards and methods used
 - MITRE ATT&CK mapping for detections and investigations (TTP-focused notes)
 - NIST incident response flow (prepare, detect, analyze, contain, recover, lessons learned)
 - CIS-style thinking for controls and hardening recommendations
-
+---
 ## How to verify my work
 If you only have 2 minutes: open Project 01 and read one ticket in `tickets/` plus the proof screenshots.
 
@@ -57,7 +59,7 @@ Each project repo follows a consistent structure so you can check evidence fast:
 - `hunts/` hunt queries and findings
 - `tickets/` SOC-style incident tickets (timeline + evidence + decision)
 - `references/` official docs used. 
-
+---
 Ticket format is consistent:
 1) Summary and severity
 2) What triggered the alert
