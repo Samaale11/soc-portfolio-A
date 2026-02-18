@@ -20,7 +20,7 @@ Log collection matters because investigations depend on reliable, searchable his
 
 ## Lab architecture
 
-![Lab architecture](projects/project-01-wazuh-sysmon-siem/diagrams/architecture.png)
+![Hybrid Lab Architecture](./diagrams/Hybrid%20Lab%20architecture%20Diagram.png)
 
 - **Windows host (endpoint):** this is the monitored endpoint running Sysmon and the Wazuh agent. [2][6]
 - **Ubuntu VM (SIEM server):** runs the Wazuh stack (manager, indexer, dashboard) using Docker. [4]
