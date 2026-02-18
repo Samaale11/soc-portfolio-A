@@ -4,7 +4,7 @@
 <p align="center">I am <strong>Mohamed Farah, a Cybersecurity professional with a Bachelor’s degree in Cybersecurity from IU International University of Applied Sciences</strong>, the Google Cybersecurity Professional Certificate, and IT Fundamentals certification.</p>
 
 <p align="center">This repository serves as the centralized hub for my <strong>SOC Analyst Tier 1 and 2 portfolio</strong>. It features <strong>evidence-based projects</strong> including log pipelines, alert triage, detection rules, threat hunting, incident tickets, and detailed lab writeups. These practical projects provide technical proof of my ability to collect telemetry, triage alerts, build detections, and write clear incident tickets using industry-standard tools such as Wazuh, Sysmon, Zeek, Suricata, and Velociraptor.</p>
----
+
 
 ## Target role: SOC Analyst Tier 1 or 2
 
@@ -20,6 +20,7 @@
 Additionally, I document each project with repeatable steps, screenshots, and tickets so the work can be verified quickly.
 
 **Location:** Nairobi, Kenya | **LinkedIn:** www.linkedin.com/in/mohamed-farah-bb7b8622a 
+
 **Resume:** in-progress | **Email:** Mohamedalas929@gmail.com
 
 
@@ -174,9 +175,7 @@ Legend: ✅ done | 🟡 in progress | ⬜ planned
 - `projects/` contains one-page summaries for quick scanning
 - Each project repo contains the full evidence trail and reproducible steps
   
----
-
-
 
 I treat every project as a real SOC case. You can review my tickets, validate the evidence in screenshots, and follow my steps to reproduce the results.
----
+
+
