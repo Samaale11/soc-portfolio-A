@@ -6,12 +6,12 @@
 <p align="center">This repository serves as the centralized hub for my SOC Analyst Tier 1 and 2 portfolio. It features evidence-based projects including log pipelines, alert triage, detection rules, threat hunting, incident tickets, and detailed lab writeups. These practical projects provide technical proof of my ability to collect telemetry, triage alerts, build detections, and write clear incident tickets using industry-standard tools such as Wazuh, Sysmon, Zeek, Suricata, and Velociraptor.</p>
 ---
 
----
-**Target role:** SOC Analyst Tier 1 or 2
+
+##Target role: SOC Analyst Tier 1 or 2
 
 
 
-## Credentials
+**Credentials**
 
 
 - **Bachelor’s degree:** Cybersecurity, 2026 | IU International University of Applied Sciences  
@@ -21,7 +21,7 @@
 Additionally, I document each project with repeatable steps, screenshots, and tickets so the work can be verified quickly.
 
 **Location:** Nairobi, Kenya | **LinkedIn:** www.linkedin.com/in/mohamed-farah-bb7b8622a | **Resume:** in-progress | **Email:** Mohamedalas929@gmail.com
----
+
 
 ---
 ## What this portfolio proves
@@ -56,7 +56,7 @@ Additionally, I document each project with repeatable steps, screenshots, and ti
 ---
 
 
----
+
 ### Fundamentals (broad cybersecurity base)
 
 
@@ -74,7 +74,7 @@ Additionally, I document each project with repeatable steps, screenshots, and ti
 - CIS-style thinking for controls and hardening recommendations
 ---
 
----
+
 ## How to verify my work
 
 
@@ -90,7 +90,6 @@ Each project repo follows a consistent structure so you can check evidence fast:
 - `references/` official docs used.
 ---
 
----
 Ticket format is consistent:
 
 
@@ -102,7 +101,7 @@ Ticket format is consistent:
 6) Actions taken + next steps  
 ---
 
----
+
 # Projects (10 practical SOC projects)
 
 
@@ -168,7 +167,7 @@ Legend: ✅ done | 🟡 in progress | ⬜ planned
    - Repo: https://github.com/<your-username>/soc-project-10-automation-lite
 ---
 
----
+
 ## Repo structure
 
 
