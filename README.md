@@ -4,6 +4,9 @@
 
 <p align="center"> This repository serves as the centralized hub for my SOC Analyst Tier 1 and 2 portfolio. It features evidence-based projects including log pipelines, alert triage, detection rules, threat hunting, incident tickets, and detailed lab writeups. These practical projects provide technical proof of my ability to collect telemetry, triage alerts, build detections, and write clear incident tickets using industry-standard tools such as Wazuh, Sysmon, Zeek, Suricata, and Velociraptor.</p>
 
+
+
+
 **Target role:** SOC Analyst Tier 1 or 2  
 ## Credentials
 - **Bachelor’s degree:** Cybersecurity,  2026 | IU International University of Applied Sciences
