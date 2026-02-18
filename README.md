@@ -10,7 +10,7 @@
 
 
 
-**Credentials**
+### Credentials
 
 
 - **Bachelor’s degree:** Cybersecurity, 2026 | IU International University of Applied Sciences  
@@ -24,7 +24,7 @@ Additionally, I document each project with repeatable steps, screenshots, and ti
 
 
 ---
-## What this portfolio proves
+### What this portfolio proves
 
 
 - I can move logs from endpoints and network sensors into a SIEM and confirm coverage.
@@ -66,7 +66,7 @@ Additionally, I document each project with repeatable steps, screenshots, and ti
 
 
 
-## Standards and methods used
+### Standards and methods used
 
 
 - MITRE ATT&CK mapping for detections and investigations (TTP-focused notes)
@@ -168,7 +168,7 @@ Legend: ✅ done | 🟡 in progress | ⬜ planned
 ---
 
 
-## Repo structure
+### Repo structure
 
 
 - `projects/` contains one-page summaries for quick scanning
