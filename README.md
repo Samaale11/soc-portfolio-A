@@ -6,7 +6,6 @@
 
 
 
-
 **Target role:** SOC Analyst Tier 1 or 2  
 ## Credentials
 - **Bachelor’s degree:** Cybersecurity,  2026 | IU International University of Applied Sciences
