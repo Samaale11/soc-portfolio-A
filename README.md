@@ -109,11 +109,7 @@ Each project repo follows a consistent structure so you can check evidence fast:
 Legend: ✅ done | 🟡 in progress | ⬜ planned
 
 1) ⬜ **Project 01: Mini SOC Lab (Wazuh + Sysmon on Windows)**
-   
-   -
-   
-   -
-   
+
    - Build: SIEM pipeline for telemetry collection and alert detection via Wazuh and Sysmon.
    - Output: Lab writeups, custom detection rules, and professional incident tickets.
    - [Overview: Wazuh & Sysmon SIEM Implementation](./projects/project-01-wazuh-sysmon-siem/README.md)
