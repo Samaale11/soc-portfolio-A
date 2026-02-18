@@ -112,7 +112,7 @@ Legend: ✅ done | 🟡 in progress | ⬜ planned
 
    - Build: SIEM pipeline for telemetry collection and alert detection via Wazuh and Sysmon.
    - Output: Lab writeups, custom detection rules, and professional incident tickets.
-   - [Overview: Wazuh & Sysmon SIEM Implementation](./projects/project-01-wazuh-sysmon-siem/README.md)
+   - Overview: Wazuh & Sysmon SIEM Implementation(./projects/project-01-wazuh-sysmon-siem/README.md)
    - Repo: https://github.com/<your-username>/soc-project-01-wazuh-sysmon-siem
      
 3) ⬜ **Project 02: Alert Triage Playbook Pack (Tier 1 workflow)**
