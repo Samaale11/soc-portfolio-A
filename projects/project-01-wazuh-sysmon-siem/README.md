@@ -96,25 +96,18 @@ Triggers on Windows Security Event ID **4720** (a user account was created). New
 
 ---
 
-## Evidence (to be written later)
+##  Project 01 Screenshots Index
 
-- `screenshots/01_wazuh_running/`  
-  To be written later: proof that Wazuh is running and the dashboard is reachable. [4]
-- `screenshots/02_agent_connected/`  
-  To be written later: proof that the Windows agent is enrolled and connected. [6]
-- `screenshots/03_sysmon_events/`  
-  To be written later: proof that Sysmon Operational logs include Event ID 1 process creation. [2]
-- `screenshots/04_alerts/`  
-  To be written later: proof that both detections fire in Wazuh with matching event fields visible.
-- `screenshots/05_tickets/`  
-  To be written later: proof that tickets are completed with evidence links and conclusions.
+### 01_wazuh_running
 
-**To be written later (template for evidence index):**
-- Screenshot filenames and what each proves:
-  - 01: ___
-  - 02: ___
-  - 03: ___
-  - 04: ___
+- ubuntu_iso_ready.png: Ubuntu Server ISO is present on the Windows host and ready for VM installation.
+- 01_wazuh_running_hostonly_network_created.png: VirtualBox host-only network exists (isolated host to VM lab network). 
+- 02_ubuntu_vm_resources.png.png: Ubuntu VM resources (CPU and RAM) configured for the lab.
+- 03_ubuntu_vm_storage_iso.png.png: Ubuntu ISO and VM disk (VDI) attached in VirtualBox Storage.
+- 04_ubuntu_vm_network_adapters.png.png: Ubuntu VM network configured with Adapter 1 as NAT and Adapter 2 as Host-only.
+- 06_ubuntu_ip_check.png: Ubuntu VM IP addresses verified (NAT and host-only interfaces visible).
+- 07_docker_versions.jpg: Docker Engine and Docker Compose plugin versions verified on Ubuntu.
+
 
 ---
 
