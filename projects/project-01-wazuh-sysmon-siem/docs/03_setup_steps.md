@@ -18,4 +18,7 @@
 - Ubuntu version installed: 24.04.4 LTS
 - Username created: farah
 - OpenSSH server: enabled: yes
-
+### step 5. Docker installation verification
+- Docker Engine install method: Docker official apt repository (Ubuntu)
+- Docker version output:  29.2.1
+- Docker Compose plugin version output:  v5.0.2
